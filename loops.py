@@ -16,10 +16,10 @@ while number <= 105:
     number += 1
 
 # Break statement
-x = 20
-while x <= 25:
+x = 80
+while x <= 90:
     print(x)
-    if x == 24:
+    if x == 89:
         break
     x += 1
 
